@@ -31,6 +31,13 @@ The script uses the LazyPredict library to quickly train and evaluate multiple r
 ## Results
 The script produces comparative visualizations of different regression models based on their R-Squared scores, RMSE values, and training times. These visualizations help in identifying the best-performing models for the given dataset.
 
+![r_squared_train](https://github.com/user-attachments/assets/21a218a6-9fb4-4497-9f06-ad27273470f6)
+
+![time_taken_train](https://github.com/user-attachments/assets/34225ea8-ddaf-469b-9fbd-e8d1e4569079)
+
+![rmse_train](https://github.com/user-attachments/assets/7d5317c7-60de-438f-bbd6-c9ff57b1a216)
+
+
 ## Future Improvements
 
 - Implement hyperparameter tuning for the best-performing models
